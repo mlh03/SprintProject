@@ -1,0 +1,15 @@
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/obj/Debug/net5.0/SpriteProject.csproj.AssemblyReference.cache
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/obj/Debug/net5.0/SpriteProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/obj/Debug/net5.0/SpriteProject.AssemblyInfoInputs.cache
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/obj/Debug/net5.0/SpriteProject.AssemblyInfo.cs
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/obj/Debug/net5.0/SpriteProject.csproj.CoreCompileInputs.cache
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/bin/Debug/net5.0/SpriteProject.deps.json
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/bin/Debug/net5.0/SpriteProject.runtimeconfig.json
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/bin/Debug/net5.0/SpriteProject.runtimeconfig.dev.json
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/bin/Debug/net5.0/SpriteProject.dll
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/bin/Debug/net5.0/ref/SpriteProject.dll
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/bin/Debug/net5.0/SpriteProject.pdb
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/obj/Debug/net5.0/SpriteProject.dll
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/obj/Debug/net5.0/ref/SpriteProject.dll
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/obj/Debug/net5.0/SpriteProject.pdb
+/Users/mohamedalsadi/Desktop/Apps/SpriteProjectApp/SpriteProject/obj/Debug/net5.0/SpriteProject.genruntimeconfig.cache
