@@ -16,7 +16,7 @@ namespace SpriteProject
             //per.PhoneNumber = int.Parse(Console.ReadLine());
             //Console.WriteLine($"Name: {per.FullName}, Email:{per.Email}, Phone:{per.PhoneNumber}");
 
-            //INHERANTNCE:
+            ////INHERANTNCE:
             Friend per = new Friend();
             Console.WriteLine("what is the nick name?");
             per.NickName = Console.ReadLine();
@@ -26,6 +26,9 @@ namespace SpriteProject
             per.Email = Console.ReadLine();
             Console.WriteLine("What number do you want to use");
             per.PhoneNumber = int.Parse(Console.ReadLine());
+
+            per.PrintMethod();
+
 
             Buiness par = new Buiness();
             Console.WriteLine("What is your company name?");
@@ -37,17 +40,10 @@ namespace SpriteProject
             Console.WriteLine("What number do you want to use");
             par.PhoneNumber = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"FRIEND CONTACT:" +
-                $" Name: {per.FullName}," +
-                $" Nick Name: {per.NickName}," +
-                $" Email: {per.Email}," +
-                $" Phone Number: {per.PhoneNumber}");
-            Console.WriteLine($"BUINESS CONTACT:" +
-                $" Name: {par.FullName}," +
-                $" Company Name: {par.CompanyName}," +
-                $" Email: {par.Email}," +
-                $" Phone Number: {per.PhoneNumber}");
+            par.PrintMethod();
+
         }
+
     }
 }
                                                   
